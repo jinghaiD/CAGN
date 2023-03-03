@@ -1,4 +1,6 @@
 # Complementary-Attention-Gated-Network-for-Pedestrian-Trajectory-Prediction
+The current version of the code contains AAAI2022 code and the improved version of the code. The code has been briefly sorted out, and many details are still in a messy state
+
 # Set up
 Please create a dataset folder in the root directory by using "mkdir datasets_pecnet"
 
